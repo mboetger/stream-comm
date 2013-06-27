@@ -1,0 +1,17 @@
+{
+  "name": "stream-comm",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+	"lame":"1.0.2",
+	"speaker":"0.0.10",
+        "throttle":"1.0.3"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
